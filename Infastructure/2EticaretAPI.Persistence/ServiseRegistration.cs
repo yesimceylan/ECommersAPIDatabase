@@ -12,7 +12,7 @@ namespace _2EticaretAPI.Persistence
     {
         public static void AddPersistenceServices(this IServiceCollection services)
         {
-
+            // test
         }
     }
 }
