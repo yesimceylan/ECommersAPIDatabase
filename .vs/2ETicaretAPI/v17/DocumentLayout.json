@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F28E71B-17C1-4B12-8714-3E2D24E69109}|Infastructure\\2EticaretAPI.Persistence\\2EticaretAPI.Persistence.csproj|c:\\users\\yesim\\source\\repos\\2eticaretapi\\infastructure\\2eticaretapi.persistence\\serviseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F28E71B-17C1-4B12-8714-3E2D24E69109}|Infastructure\\2EticaretAPI.Persistence\\2EticaretAPI.Persistence.csproj|solutionrelative:infastructure\\2eticaretapi.persistence\\serviseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F28E71B-17C1-4B12-8714-3E2D24E69109}|Infastructure\\2EticaretAPI.Persistence\\2EticaretAPI.Persistence.csproj|c:\\users\\yesim\\source\\repos\\2eticaretapi\\infastructure\\2eticaretapi.persistence\\contacts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F28E71B-17C1-4B12-8714-3E2D24E69109}|Infastructure\\2EticaretAPI.Persistence\\2EticaretAPI.Persistence.csproj|solutionrelative:infastructure\\2eticaretapi.persistence\\contacts\\eticaretapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF517CAF-69BF-4C89-B28A-5766BF0691BB}|presentation\\2ETicaretAPI.API\\2ETicaretAPI.API.csproj|c:\\users\\yesim\\source\\repos\\2eticaretapi\\presentation\\2eticaretapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF517CAF-69BF-4C89-B28A-5766BF0691BB}|presentation\\2ETicaretAPI.API\\2ETicaretAPI.API.csproj|solutionrelative:presentation\\2eticaretapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61C5815-AB62-4C38-AC0A-F9563D685300}|Core\\2ETicaretAPI.Domain\\2ETicaretAPI.Domain.csproj|c:\\users\\yesim\\source\\repos\\2eticaretapi\\core\\2eticaretapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61C5815-AB62-4C38-AC0A-F9563D685300}|Core\\2ETicaretAPI.Domain\\2ETicaretAPI.Domain.csproj|solutionrelative:core\\2eticaretapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61C5815-AB62-4C38-AC0A-F9563D685300}|Core\\2ETicaretAPI.Domain\\2ETicaretAPI.Domain.csproj|c:\\users\\yesim\\source\\repos\\2eticaretapi\\core\\2eticaretapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61C5815-AB62-4C38-AC0A-F9563D685300}|Core\\2ETicaretAPI.Domain\\2ETicaretAPI.Domain.csproj|solutionrelative:core\\2eticaretapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61C5815-AB62-4C38-AC0A-F9563D685300}|Core\\2ETicaretAPI.Domain\\2ETicaretAPI.Domain.csproj|c:\\users\\yesim\\source\\repos\\2eticaretapi\\core\\2eticaretapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61C5815-AB62-4C38-AC0A-F9563D685300}|Core\\2ETicaretAPI.Domain\\2ETicaretAPI.Domain.csproj|solutionrelative:core\\2eticaretapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiseRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Infastructure\\2EticaretAPI.Persistence\\ServiseRegistration.cs",
+              "RelativeDocumentMoniker": "Infastructure\\2EticaretAPI.Persistence\\ServiseRegistration.cs",
+              "ToolTip": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Infastructure\\2EticaretAPI.Persistence\\ServiseRegistration.cs",
+              "RelativeToolTip": "Infastructure\\2EticaretAPI.Persistence\\ServiseRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:16:33.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\presentation\\2ETicaretAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "presentation\\2ETicaretAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\presentation\\2ETicaretAPI.API\\Program.cs",
+              "RelativeToolTip": "presentation\\2ETicaretAPI.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:04:37.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ETicaretAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Infastructure\\2EticaretAPI.Persistence\\Contacts\\ETicaretAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Infastructure\\2EticaretAPI.Persistence\\Contacts\\ETicaretAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Infastructure\\2EticaretAPI.Persistence\\Contacts\\ETicaretAPIDbContext.cs",
+              "RelativeToolTip": "Infastructure\\2EticaretAPI.Persistence\\Contacts\\ETicaretAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:01:23.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Core\\2ETicaretAPI.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\2ETicaretAPI.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Core\\2ETicaretAPI.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\2ETicaretAPI.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:03:02.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Core\\2ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Core\\2ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Core\\2ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Core\\2ETicaretAPI.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:02:37.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Core\\2ETicaretAPI.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\2ETicaretAPI.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\yesim\\source\\repos\\2ETicaretAPI\\Core\\2ETicaretAPI.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\2ETicaretAPI.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:01:51.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

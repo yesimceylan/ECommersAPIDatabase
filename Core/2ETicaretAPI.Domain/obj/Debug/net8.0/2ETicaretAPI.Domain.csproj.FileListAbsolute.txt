@@ -1,0 +1,11 @@
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\bin\Debug\net8.0\2ETicaretAPI.Domain.deps.json
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\bin\Debug\net8.0\2ETicaretAPI.Domain.dll
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\bin\Debug\net8.0\2ETicaretAPI.Domain.pdb
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\2ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\2ETicaretAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\2ETicaretAPI.Domain.AssemblyInfo.cs
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\2ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\2ETicaretAPI.Domain.dll
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\refint\2ETicaretAPI.Domain.dll
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\2ETicaretAPI.Domain.pdb
+C:\Users\yesim\source\repos\2ETicaretAPI\Core\2ETicaretAPI.Domain\obj\Debug\net8.0\ref\2ETicaretAPI.Domain.dll
